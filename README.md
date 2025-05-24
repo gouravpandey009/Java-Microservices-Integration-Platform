@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Java Microservices Integration Platform
 
 A **starter kit** for building scalable, resilient, and modular microservices using **Java & Spring Boot**.
@@ -101,7 +100,6 @@ Whether you're a curious learner or planning your production architecture — **
 /docker-compose.yml
 /pom.xml
 
-````
 
 ---
 
